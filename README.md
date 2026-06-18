@@ -7,7 +7,7 @@ Interactive EMI calculator built with React, Vite, Redux Toolkit, and Context AP
 Development server:
 
 ```text
-http://127.0.0.1:5173/
+https://emi-calculator-bice-five.vercel.app/
 ```
 
 ## Vercel Settings
