@@ -4,6 +4,8 @@ Interactive EMI calculator built with React, Vite, Redux Toolkit, and Context AP
 
 ## Local URL
 
+Development server:
+
 ```text
 http://127.0.0.1:5173/
 ```
